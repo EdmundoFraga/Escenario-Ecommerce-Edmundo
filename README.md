@@ -29,23 +29,20 @@ NAT: Internet
 gateway intern: 10.14.208.9
 ## Dibuix lògic
 
-![Dibuix Logic](images/Dibux Logic.png)
+![Dibuix Logic](Captures-Ecommerce/Dibux Logic.png)
 
 ## Comprovacions
 ### Comprovació PC1
 
-
-
+![Captura-Comprobacion1](Captures-Ecommerce/Captura-Comprobacion-PC1.png)
 
 ### Comprovació PC2
 
-
-
+![Captura-Comprobacion2](Captures-Ecommerce/Captura-Comprobacion-PC2.png)
 
 ### Comprovació PC3
 
-
-
+![Captura-Comprobacion3](Captures-Ecommerce/Captura-Comprobacion-PC3.png)
 
 ## IP Forwarding
 ### Activació temporal
