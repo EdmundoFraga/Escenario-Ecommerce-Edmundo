@@ -29,7 +29,7 @@ NAT: Internet
 gateway intern: 10.14.208.9
 ## Dibuix lògic
 
-![Dibuix Logic](Captures-Ecommerce/Dibux Logic.png)
+![Dibuix Logic](Captures-Ecommerce/Dibux-Logic.png)
 
 ## Comprovacions
 ### Comprovació PC1
